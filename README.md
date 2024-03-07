@@ -1,2 +1,2 @@
-# exercicios-php
-Este repositório contém quatro exercícios em PHP destinados a praticar o uso de funções, variáveis, estruturas de controle, expressões e operadores.
+
+"Este repositório contém quatro exercícios em PHP destinados a praticar o uso de funções, variáveis, estruturas de controle, expressões e operadores. Cada exercício aborda um aspecto específico da linguagem PHP, proporcionando uma oportunidade para os iniciantes consolidarem e aprimorarem seus conhecimentos. Os exercícios são projetados para serem simples e diretos, facilitando a compreensão e a prática dos conceitos fundamentais da linguagem."
