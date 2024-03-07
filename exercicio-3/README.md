@@ -16,19 +16,6 @@ Abra o arquivo index.php em um servidor web que suporte PHP.
 Execute o script PHP no navegador.
 Você verá o resultado do cálculo do desconto com base no valor do produto e na categoria fornecida.
 
-# Exemplo de Uso
-
-<?php
-include 'calcular_desconto.php';
-
-// Valores das variáveis
-$valorProduto = 3999.10;
-$categoria = "Eletrônico";
-
-// Chamando a função para calcular o desconto
-calcularDesconto($valorProduto, $categoria);
-?>
-
 # Observações
 
 Certifique-se de fornecer o valor do produto e a categoria como argumentos ao chamar a função calcularDesconto($valorProduto, $categoria).
